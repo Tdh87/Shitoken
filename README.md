@@ -1,0 +1,2 @@
+# Shitoken
+a shitty coin
